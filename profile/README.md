@@ -1,4 +1,4 @@
-# Home Office Fire and Rescue Service Data and Analytics Platform™
+# Home Office Fire and Rescue Data and Analytics Platform™
 
 ## About
 
@@ -14,8 +14,8 @@ Overtime, the new System shall enable multiple fire datasets to be collected ele
 
 This GitHub Organisation contains all the internal development resources and code associated with the FaRDaP™ system.
 
-A public facing GitHub Organisation for sharing resources with the FaRDaP developer community can be found at https://github.com/HO-FaRDaP
+A public facing GitHub Organisation for sharing resources with the FaRDaP™ developer community can be found at https://github.com/HO-FaRDaP
 
 ## More Information
 
-More information about the Fire and recue incident statistics is available on the GOV.Uk webiste https://www.gov.uk/government/collections/fire-statistics-monitor.
+More information about the Fire and rescue incident statistics is available on the GOV.Uk webiste https://www.gov.uk/government/collections/fire-statistics-monitor.
